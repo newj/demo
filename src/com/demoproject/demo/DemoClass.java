@@ -3,6 +3,7 @@ package com.demoproject.demo;
 public class DemoClass {
 
 	public static void main(String[] args) {
-		System.out.println("Hello world!");
+		String helloWorldMessage = "Hello world!";
+		System.out.println(helloWorldMessage);
 	}
 }
