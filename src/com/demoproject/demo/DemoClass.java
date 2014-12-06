@@ -4,6 +4,7 @@ public class DemoClass {
 
 	/* simple comment */
 	public static void main(String[] args) {
-		System.out.println("Hello world!");
+		String helloWorldMessage = "Hello world!";
+		System.out.println(helloWorldMessage);
 	}
 }
